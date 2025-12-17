@@ -105,6 +105,3 @@ If you run larger scans (e.g. \(N\ge 10^6\)), please open an issue with your res
 
 ---
 
-## License
-
-MIT License (see `LICENSE`)
